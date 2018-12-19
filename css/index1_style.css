@@ -1,0 +1,258 @@
+body
+{
+    font-family:sans-serif;
+}
+nav img
+{
+    width: 60px;
+    height: 70px;
+}
+.navbar-dark .navbar-nav .active>.nav-link:hover
+{
+        color: #ec3237 !important;
+} 
+.layout
+{
+    background-color: rgba(196, 45, 50, 0.68);
+    color: #fff;
+    height: 600px;
+}
+.cover
+{
+    background-image: url(../images/images/cover.jpg);
+    background-size: 100% 100%;
+    height: 600px;
+    
+}
+.cover h1
+{
+    font-size:40px;
+    font-weight: 800;
+}
+.cover h3
+{
+     font-size:30px;
+    font-weight: 600;
+}
+.cover .btn
+{
+    color: #fff;
+    border: solid 2px #fff;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 400;
+}
+.cover .btn:hover
+{
+    background-color: #fff;
+    color: #ec3237;
+}
+.layout a{
+    color: #fff;
+}
+.about-me h2
+{
+     font-size:35px;
+    font-weight: 700;
+}
+.about-me h4
+{
+     font-size:20px;
+    font-weight: 500;
+}
+
+.about-me p
+{
+     font-size:18px;
+    font-weight: 300;
+    color:#777;
+}
+.about-me .social ul
+{
+  list-style-type: none;
+}
+.about-me .social li
+{
+  display: inline-block;
+    padding-right: 5px;
+}
+.about-me .social a
+{
+    color: #777;
+    border: solid 1px #777;
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.about-me .social a:hover
+{
+    color:#fff;
+    background-color:#ec3237; 
+}
+.progress-wrap span
+{
+    color:#777;
+}
+.about-me .col-sm-12 a
+{
+    color: #fff;
+    background-color:#ec3237;
+    padding: 15px 25px;
+    border: solid 2px #ec3237;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+ .about-me .col-sm-12 a:hover
+{
+    background-color: rgb(196, 45, 50);
+    border:solid 2px rgb(196, 45, 50);
+    
+}
+.mywork h2
+{
+     font-size:35px;
+    font-weight: 700;
+}
+.mywork h4
+{
+     font-size:25px;
+    font-weight: 500;
+}
+
+.mywork p
+{
+     font-size:18px;
+    font-weight: 300;
+    color:#777;
+}
+.mywork .icons
+{
+    background-color: #eee;
+    color: #777;
+    padding: 10px;
+    width:40px;
+    height:40px;
+}
+.mywork .jops:hover .icons
+{
+    background-color:#ec3237;
+    color: #fff;
+}
+.mywork .jops:hover h4
+{
+    color:#ec3237; 
+}
+.mywork .col-sm-12 a
+{
+    color: #fff;
+    background-color:#ec3237;
+    padding: 15px 25px;
+    border: solid 2px #ec3237;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.mywork .col-sm-12 a:hover
+{
+    background-color: rgb(196, 45, 50);
+    border:solid 2px rgb(196, 45, 50);
+    
+}
+.counter
+{
+    background-image:url(../images/images/project-counter.jpg);
+    background-size: 100% 100%;
+}
+.counter .count
+{
+    
+  background-color: transparent;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+.counter .icons
+{
+    padding-top: 20px;
+    color: #ec3237;
+    padding-bottom: 15px;
+}
+.counter h4
+{
+    font-size: 18px;
+    font-weight: 400;
+    color: #ec3237;
+}
+.counter span
+{
+    font-size: 45px;
+    font-weight: 600;
+    color: #fff;
+}
+.portfolio
+{
+    background-color: #eee;
+}
+.portfolio h2
+{
+     font-size:35px;
+    font-weight: 700;
+}
+.portfolio p
+{
+     font-size:20px;
+    font-weight: 400;
+    color:#777;
+}
+
+.portfolio .navs li a{
+    font-size: 18px;
+    font-weight: 500;
+    border: solid 2px #999;
+     padding: 15px 25px;
+    color: #000;
+    text-decoration: none;
+}
+.portfolio .navs li a:hover
+{
+    border: solid 2px #ec3237;
+    color: #ec3237;
+}
+.gallary
+{
+    background-color: #fff;
+}
+
+.gallary a
+{
+    color: #fff;
+}
+.gallary a i
+{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top:50%;
+    left: 45%;
+    background-color: #000;
+    border-radius: 50%;
+}
+.gallary:hover i
+{
+   background-color: #ec3237; 
+}
+.portfolio .col-sm-12 a
+{
+    color: #fff;
+    background-color:#ec3237;
+    padding: 15px 25px;
+    border: solid 2px #ec3237;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.portfolio .col-sm-12 a:hover
+{
+    background-color: rgb(196, 45, 50);
+    border:solid 2px rgb(196, 45, 50);
+    
+}
